@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="strombus3" size="1.000000 1.232210" />
+    <ImageTarget name="strombus1" size="1.000000 1.180473" />
+    <ImageTarget name="strombus2" size="1.000000 0.541936" />
+  </Tracking>
+</QCARConfig>
