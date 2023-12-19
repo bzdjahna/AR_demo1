@@ -16,7 +16,10 @@ By using Vuforia Engine in Unity, we created an image-target app.
 ## Geolocation for AR tracking 
 This work uses AR+GPS Location package, and we have got a first result. 
 
+*Calculate distances and geolocation*
+
 <img src="./img/geoloc1.jpeg" alt="drawing" width="300"/>
+
 
 <img src="./img/cc.png" alt="drawing" width="80"/>Data produce by this project have been published under [license Creative Commons (CC BY 4.0 IT](https://creativecommons.org/share-your-work/): This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. 
 
