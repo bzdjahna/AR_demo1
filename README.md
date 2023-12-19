@@ -7,8 +7,7 @@ By using Vuforia Engine in Unity, we created an image-target app.
 
 *Image-target and a cube*
 
-<img src="img/target1.jpg" alt="drawing" width="180"/> 
-<img src="img/image_target1.jpg" alt="drawing" width="210"/>
+<img src="img/target1.jpg" alt="drawing" width="180"/> <img src="img/image_target1.jpg" alt="drawing" width="210"/>
 
 
 
