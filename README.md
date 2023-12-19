@@ -5,7 +5,7 @@ By using Vuforia Engine in Unity, we created an image-target app.
 
 
 
-**This is the image-target**
+*Image-target and a cube*
 
 <img src="img/target1.jpg" alt="drawing" width="180"/> 
 <img src="img/image_target1.jpg" alt="drawing" width="210"/>
@@ -15,7 +15,7 @@ By using Vuforia Engine in Unity, we created an image-target app.
 
 
 ## Geolocation for AR tracking 
-This work uses AR+GPS Location package, and we have got a first positive result. 
+This work uses AR+GPS Location package, and we have got a first result. 
 
 <img src="./img/geoloc1.jpeg" alt="drawing" width="300"/>
 
